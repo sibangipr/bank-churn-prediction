@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Mac system files (you are using MacBook)
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: Ignore model file (if large)
+model.pkl
+
+# Optional: Ignore dataset (if large)
+data/
