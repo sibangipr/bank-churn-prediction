@@ -168,4 +168,4 @@ else:
 
 # ------------------ FOOTER ------------------
 st.markdown("---")
-st.markdown("🚀 Developed by Ashutosh Panda | AI & Data Science Project")
+st.markdown("🚀 Developed by Sibangi Tripathy | Customer Engagement and retention strategy")
