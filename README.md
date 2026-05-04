@@ -8,6 +8,7 @@ Predict customer churn using Machine Learning and visualize insights using Strea
 - Risk classification (Low/Medium/High)
 - Feature importance visualization
 - What-if analysis
+ALM
 
 ## 🛠 Tech Stack
 - Python
